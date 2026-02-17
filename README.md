@@ -1,4 +1,4 @@
-# ssae
+# Convert Your .screenstudio project to after effects composition
 
 Bring your [Screen Studio](https://www.screen.studio/) recordings into After Effects.
 

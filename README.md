@@ -2,6 +2,8 @@
 
 Bring your [Screen Studio](https://www.screen.studio/) recordings into After Effects.
 
+![ssae in After Effects](ssae.jpeg)
+
 Screen Studio is amazing at what it does — beautiful screen recordings with automatic zoom, cursor tracking, and webcam overlays, all in one click. But sometimes you need to take that recording further: custom motion graphics, color grading, compositing with other footage, or integrating into a larger edit. That's where this tool comes in.
 
 `ssae` reads your Screen Studio project and rebuilds it as a native After Effects composition — same zoom animations, same cursor movement, same layout — giving you a starting point to build on top of in AE.

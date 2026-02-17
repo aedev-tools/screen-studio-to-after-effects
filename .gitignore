@@ -1,0 +1,9 @@
+FORMAT.md
+RESEARCH.md
+scripts/
+*.aep
+*.screenstudio
+/tmp/
+__pycache__/
+*.pyc
+.DS_Store
